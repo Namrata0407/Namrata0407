@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Namrata+Awasthi;An+Aspiring+Full+Stack+Web-Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=24&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
 # 💫 About Me:
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
