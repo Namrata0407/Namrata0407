@@ -2,12 +2,10 @@
 
 # 💫 About Me:
 <br>##  About Me :<br>I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning 🧑‍💻 **Full Stack Web-Development**<br>
--  <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" />   I’m a Student at <a            href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Namrata0407?tab=repositories)**
-- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon"   /> How to reach me **namrataawasthi0407@gmail.com**
-
+- 📫 How to reach me **namrataawasthi077@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namrata-awasthi-0014b4242) 
