@@ -6,7 +6,7 @@
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Namrata0407?tab=repositories)**
 - 📫 How to reach me **namrataawasthi077@gmail.com**
-- 🌐 **[Portfolio](https://namrata0407.github.io/)**
+- 🌐 Portfolio [https://namrata0407.github.io/](https://namrata0407.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namrata-awasthi-0014b4242) 
