@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Namrata+Awasthi;An+Aspiring+Full+Stack+Web-Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=24&duration=2000&pause=2000">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Namrata+Awasthi;An+Aspiring+Full+Stack+Web-Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=24&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
