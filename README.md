@@ -6,7 +6,7 @@
 
 # 💫 About Me:
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m a **Full Stack (MERN) Development**
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Namrata0407?tab=repositories)**
 - 📫 How to reach me **namrataawasthi077@gmail.com**
